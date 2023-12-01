@@ -34,7 +34,6 @@ Patch2:        0001-place-Always-center-initial-setup-fedora-welcome.patch
 
 # https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1154
 Patch3:        vrr.patch
-Patch4:        enable-vrr-setting.patch
 
 BuildRequires: pkgconfig(gobject-introspection-1.0) >= 1.41.0
 BuildRequires: pkgconfig(sm)
